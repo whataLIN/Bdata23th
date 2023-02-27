@@ -9,8 +9,8 @@ st.write(
     
     ---
 
-    # 나에게 가장 도움이 될 것 같은 유튜브
-    ## [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
+    ## 나에게 가장 도움이 될 것 같은 유튜브
+    ### [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
     ##### 구독자 : 8.58만명
 
     + 장점 : 설명이 자세하고, 편집이 잘되어 있다.
@@ -23,8 +23,8 @@ st.write(
 
     ---
 
-    # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
-    ## [노마드코더](https://www.youtube.com/@nomadcoders)
+    ## 다른 학생들에게 가장 도움이 될 것 같은 유튜브
+    ### [노마드코더](https://www.youtube.com/@nomadcoders)
     ##### 구독자 : 45.4만명
     
     + 장점 : 이해가 편하게 쉽게 설명한다.
