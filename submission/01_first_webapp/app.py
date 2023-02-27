@@ -13,7 +13,7 @@ st.balloons()
 st.write(
     """
     ## 코딩 유튜브 채널 추천❗  
-    \n
+    ---
     """
 )
 
@@ -43,3 +43,8 @@ with col2 :
   st.image("https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg")
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
+
+  values = st.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5, (2, 3, 4))
+  st.write('Values:', values)
+
+   st.text_input(value)
