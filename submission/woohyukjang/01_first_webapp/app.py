@@ -15,16 +15,16 @@ st.write(
     |[Github](https://github.com/woohyukjang)|
  
     
-    #강사님 추천 강의
+    # 강사님 추천 강의
 
-    내가 들어야 할 강의
+    ## 내가 들어야 할 강의
 
     >[나도코딩](https://www.youtube.com/watch?v=kWiCuklohdY&t=10s) 
     
     듣다 손놓은 6시간 강의 완강하자
 
     
-    학원 동기들에게 추천하는 강의
+    ## 학원 동기들에게 추천하는 강의
 
     >[혁펜하임](https://www.youtube.com/@hyukppen)
 
