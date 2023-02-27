@@ -17,7 +17,8 @@ st.write(
     """
 )
 
-st.sidebar.title('여러분의 추천 채널을 소개해 주세요! 👇')
+st.sidebar.title('시간 잘가는 유튜브 추천👇')
+add_selectbox = st.sidebar.selectbox("", ("ITSub잇섭", "지식한입", "느낌적인느낌","호갱구조대", "너 진짜 똑독하다"))
 
 col1,col2 = st.columns([1,1])
 col3= st.columns([1,1])
