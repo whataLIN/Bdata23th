@@ -24,7 +24,7 @@ st.write(
 
 
     # 참고 사이트
-    * # 개발전반
+    * ### 개발전반
     * [생활코딩](https://www.youtube.com/@coohde/)
     * [노마드 코](https://www.youtube.com/@nomadcoders/)
     * [조코딩](https://www.youtube.com/@jocoding/)
@@ -33,8 +33,8 @@ st.write(
     * [나도코딩](https://www.youtube.com/@nadocoding/)
     * [드림코딩](https://www.youtube.com/@dream-coding/)
     * [독학하는 프로그래머 김플](https://www.youtube.com/@kimfl/)
-
-    * #Data/AL/ML/DL
+</br>
+    * ### Data/AL/ML/DL
     * [오늘의코드](https://www.youtube.com/@todaycode/)
     * [퇴근후딴짓](https://www.youtube.com/@ai-study/)
     * [빵형의 개발도상국](https://www.youtube.com/@bbanghyong/)
