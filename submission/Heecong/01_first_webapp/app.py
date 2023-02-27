@@ -12,7 +12,8 @@ st.write(
     ####<span style="color:#2EFE9A">**노마드코더**</span>
     > 이유 : 유명한 채널이고 코딩말고도 개발자들을 위한 팁들도 있어서 유용할 것 같다.
 
-    <span style="color:yellow">노마드코더</span>
+    <span style="color:#d3d3d3">#d3d3d3</span>
+
 
     # 참고 사이트
     * [icons8](https://icons8.com/)
