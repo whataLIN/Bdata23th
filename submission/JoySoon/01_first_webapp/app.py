@@ -6,6 +6,7 @@ st.write(
     """
     # 나에게 가장
     ## 도움이 될 것 같은 유튜브
+    ![이미지에 대한 설명](https://icons8.com/illustrations/illustration/3d-casual-life-young-woman-sitting-in-front-of-laptop-and-having-an-idea-1)
     ---
     ### 노마드코더
     ---
@@ -15,6 +16,7 @@ st.write(
 
     # 다른 학생들에게 가장 
     ## 도움이 될 것 같은 유튜브
+    ![이미지에 대한 설명](https://icons8.com/illustrations/illustration/3d-casual-life-solleagues-discussing-team-project)
     ---
     ### 나도 코딩
     ---
