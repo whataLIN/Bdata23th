@@ -31,6 +31,12 @@ st.write(
     * [icons8](https://icons8.com/)
     * [flaticon](https://flaticon.com/)
     * [pixabay](https://pixabay.com/)
+
+     <img src = "https://yt3.googleusercontent.com/ytc/AL5GRJW3Mjckcci34x38HL3Li7nTYrnWFGZQ4Vjc9eI8=s176-c-k-c0x00ffffff-no-rj" 
+                title = "생활코딩" width = "450px" height = "300px" alt = "생활코딩">
+                </img>
+                <br/>
+                >
     """
 
 )
@@ -42,5 +48,5 @@ st.image(
 
 st.image(
     "https://maxst.icons8.com/vue-static/landings/page-index/products/preview/link-preview/ouch/ouch1.png"
-    <img src = "https://yt3.googleusercontent.com/ytc/AL5GRJW3Mjckcci34x38HL3Li7nTYrnWFGZQ4Vjc9eI8=s176-c-k-c0x00ffffff-no-rj" width = "450px" height = "300px" alt = "생활코딩"></img><br/>
+   
 )
