@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.write("""## 어떤 유튜브 채널을 알아볼까?""")
-whichChannel=["","나에게 가장 도움이 될 것 같은 유튜브", "다른 학생들에게 가장 도움이 될 것 같은 유튜브"]
+whichChannel=[None,"나에게 가장 도움이 될 것 같은 유튜브", "다른 학생들에게 가장 도움이 될 것 같은 유튜브"]
 my_choice = st.selectbox('선택하세요', whichChannel)
 
 if my_choice==whichChannel[1]:
