@@ -47,4 +47,4 @@ with col2 :
   values = st.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5, (2, 3, 4))
   st.write('Values:', values)
 
-   st.text_input()
+st.text_input()
