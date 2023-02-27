@@ -22,18 +22,14 @@ st.write(
     # 2. 다른 학생들에게 가장 도움이 될 것 같은 유튜브 
      > ### `빵형의 개발 도상국`
     ##### 이유
-    1. 그냥
-    1. 저냥
-    1. 이냥
+    1. 
+    1. 
+    1. 가장 중요한 문법이 아닌 기술 구현의 중점으로 여러 기술을 구현하고있다.
 
 
     # 참고 사이트
     * ### 개발전반
-    |책의 제목|작가|출판일|
-    |-|-|-|
-    |장발장|[생활코딩]|(https://www.youtube.com/@coohde/)|
-    |파이썬|김철수27세|1971.09.01|
-    
+    * [생활코딩](https://www.youtube.com/@coohde/)
     * [노마드 코딩](https://www.youtube.com/@nomadcoders/)
     * [조코딩](https://www.youtube.com/@jocoding/)
     * [코딩하는거니](https://www.youtube.com/@gunnycoding/)
@@ -52,7 +48,8 @@ st.write(
 
 
     """
-    * [표시될 텍스트](https://naver.com)<br>
+    * [표시될 텍스트](https://naver.com)
+    <br>
     ![이미지에 대한 설명](https://ouch-cdn2.icons8.com/llLHKo43gAdT2ZjeLQl1u4V_Gt5c8h59In2dgFsJXg0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjY0/LzRiZTZiMzkyLTlk/NWUtNDA2Zi04ZTAx/LWRlODYzMjQ2YzBi/My5wbmc.png)
     """
 )
