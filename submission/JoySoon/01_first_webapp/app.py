@@ -25,9 +25,9 @@ st.write(
     다양한 재미를 느낄 수 있는 채널이다.
 
     # 참고사이트
-    * [icons8](http://icons8.com)<br>
-    * [flaticon](http://flaticon.com)<br>
-    * [pixabay](http://pixabay.com)<br>
+    * [icons8](http://icons8.com)
+    * [flaticon](http://flaticon.com)
+    * [pixabay](http://pixabay.com)
 
     """
 )
