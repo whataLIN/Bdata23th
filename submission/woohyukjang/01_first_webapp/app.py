@@ -19,7 +19,7 @@ st.write(
     >>이유:
 
     * 1$ = 1,300원
-    * ^_^
+    * ^_^dqjkwfhgkeljarfhalkejrfhalkef
 
 
     # 참고 사이트
