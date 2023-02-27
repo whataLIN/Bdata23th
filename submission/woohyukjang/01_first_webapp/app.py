@@ -16,26 +16,26 @@ st.write(
  
     
 
-    ###### 내가 들어야 할 강의
+    * ###### 내가 들어야 할 강의
 
-    >[나도코딩](https://www.youtube.com/watch?v=kWiCuklohdY&t=10s) 
+     >[나도코딩](https://www.youtube.com/watch?v=kWiCuklohdY&t=10s) 
     
-    듣다 손놓은 6시간 강의 완강하자
+     듣다 손놓은 6시간 강의 완강하자
 
     
-    ###### 학원 동기들에게 추천하는 강의
+    * ###### 학원 동기들에게 추천하는 강의
 
-    >[혁펜하임](https://www.youtube.com/@hyukppen)
+     >[혁펜하임](https://www.youtube.com/@hyukppen)
 
-    머신러닝 이론을 정말 잘 설명해 주심
+     머신러닝 이론을 정말 잘 설명해 주심
     
     
 
 
-    # 참고 사이트
-    * [icons8](https://icons8.com)
-    * [flation](https://flaticon.com)
-    * [pixabay](https://pixabay.com/ko/)
+    * # 참고 사이트
+     * [icons8](https://icons8.com)
+     * [flation](https://flaticon.com)
+     * [pixabay](https://pixabay.com/ko/)
 
 
     """
