@@ -44,7 +44,7 @@ with col1 :
 
   st.write(
     """
-    > 출처: 빵형의 개발 도상국 유튜브
+    > 출처: 빵형의 개발도상국, 노마드 코더 유튜브
     """)
 
 
@@ -54,14 +54,6 @@ with col2 :
   st.image("https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg")
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
   
-  # Text Area
-  message = st.text_area("소개해 드린 추천 채널의 느낀점을 입력해 주세요", "이곳에 입력하세요.")
-  if st.button("Submit", key='message'):
-    result = message.title()
-    st.success(result)
 
-  st.write(
-    """
-    > 출처: 노마드 코더 유튜브
-    """)
+
 
