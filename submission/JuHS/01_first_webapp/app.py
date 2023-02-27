@@ -13,6 +13,7 @@ st.write(
     ## [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
 
     > 구독자 : 8.58만명
+    
     > 이유 : 새로운 머신러닝/딥러닝 지식들이 많다
 
 
