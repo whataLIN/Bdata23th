@@ -6,9 +6,7 @@ st.write(
     """
     # DAY1
     ## 알아두면 유용한 Colab-PYTHON 단축키
-    > alt + shift + ↑↓ : 같은 코드 복붙 
-
-    > shift + home, end : 현재 위치에서 앞,뒤로 드래그
+    > alt + shift + ↑↓ : 같은 코드 복붙 </br> shift + home, end : 현재 위치에서 앞,뒤로 드래그
 
     > 실행 : ctrl+enter, 셀추가 : alt+enter
 
