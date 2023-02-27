@@ -13,9 +13,9 @@ st.write(
     ## [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
     ##### 구독자 : 8.58만명
 
-    > 장점 : 설명이 자세하고, 편집이 잘되어 있다.
+    + 장점 : 설명이 자세하고, 편집이 잘되어 있다.
 
-    > 단점 : '끝.장.내.기' 시리즈는 영상 길이가 길다.
+    + 단점 : '끝.장.내.기' 시리즈는 영상 길이가 길다.
 
     #### 추천영상 : [제대로 파는 Git & GitHub - 깃 끝.장.내.기](https://www.youtube.com/watch?v=1I3hMwQU6GU)
     ![얄코 유튜브 영상](https://i.ytimg.com/vi/1I3hMwQU6GU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADnpGfxOX13n9Sp78ug6cFst-XPw)
