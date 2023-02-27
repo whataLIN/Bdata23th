@@ -10,8 +10,3 @@ st.write(
     ## 전반적인 컴퓨터 분야의 흐름에 대해서 알수있을 것 같아서 도움이 될 것 같다. <br>
     """
 )
-
-# https://pixabay.com/ko
-st.image(
-    "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_960_720.jpg"
-)
