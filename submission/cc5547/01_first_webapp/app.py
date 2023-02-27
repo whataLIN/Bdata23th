@@ -24,9 +24,9 @@ st.write(
 
 
     # 참고 사이트
-    *[icons8](https://icons8.com/)
-    *[flaticon](https://flaticon.com/)
-    *[pixabay](https://pixabay.com/)
+    * [icons8](https://icons8.com/)
+    * [flaticon](https://flaticon.com/)
+    * [pixabay](https://pixabay.com/)
     """
 
 )
