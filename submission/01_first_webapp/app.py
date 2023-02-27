@@ -8,6 +8,12 @@ import streamlit as st
 # """ """ 여러 줄을 묶어서 표시할 수 있는 문자열
 # ''' ''' (동일 기능)
 
+st.sidebar.[element_name]
+
+with st.sidebar:
+    st.[element_name]
+
+
 
 st.balloons()
 
@@ -19,20 +25,14 @@ st.write(
     """
 )
 
-
-st.info('빵형의 개발 도상국', icon="ℹ️")
 st.image(
      "https://user-images.githubusercontent.com/71927533/221631776-7815c4a2-6500-4c1b-ba7a-208b451972ee.jpg"
 )
 
+st.info('추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!', icon="ℹ️")
 
-st.write(
-    """
-    > 추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!
-    """
-)
 
-video_file = open('https://www.youtube.com/embed/EkmFkW03ftE', 'rb')
+video_file = open('https://youtu.be/EkmFkW03ftE', 'rb')
 video_bytes = video_file.read()
 
 st.video(video_bytes)
@@ -44,17 +44,13 @@ st.write(
     """
 )
 
-st.info('노마드 코더', icon="ℹ️")
+
 st.image(
      "https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg"
 )
 
+st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
-st.write(
-    """
-    > 추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!
-    """
-)
 
 video_file = open('https://youtu.be/Cnbmrh99c1o', 'rb')
 video_bytes = video_file.read()
