@@ -7,7 +7,7 @@ st.write(
     # 장우혁 공부방  *Since 2023-02-27*
     ---
 
-    |링크 모음|
+    |# 링크 모음|
     |-|
     |[수업 자료 링크](https://the-fat-cat.notion.site/26-ef748e37e6fa4dfc821ce8972dd9c5fe)|
     |[slack 링크](https://app.slack.com/client/T04NR00MM5F/C04NC7H3K0B/rimeto_profile/U04QX4NB2PR)|
@@ -15,16 +15,16 @@ st.write(
     |[Github](https://github.com/woohyukjang)|
  
     
-    # 강사님 추천 강의
+    ### 강사님 추천 강의
 
-    ## 내가 들어야 할 강의
+    #### 내가 들어야 할 강의
 
     >[나도코딩](https://www.youtube.com/watch?v=kWiCuklohdY&t=10s) 
     
     듣다 손놓은 6시간 강의 완강하자
 
     
-    ## 학원 동기들에게 추천하는 강의
+    #### 학원 동기들에게 추천하는 강의
 
     >[혁펜하임](https://www.youtube.com/@hyukppen)
 
