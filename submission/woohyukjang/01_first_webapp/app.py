@@ -7,6 +7,10 @@ st.write(
     # 인생 첫 웹페이지 제작 *2023-02-27*
     ---
     
+    [수업 자료](https://the-fat-cat.notion.site/26-ef748e37e6fa4dfc821ce8972dd9c5fe)<br>
+    
+
+
     # 정리
     # 제목 (Headline)
     ## 2단계 제목
