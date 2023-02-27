@@ -17,8 +17,11 @@ st.write(
     """
 )
 
-st.sidebar.title('시간 잘가는 유튜브 추천👇')
-add_selectbox = st.sidebar.selectbox("", ("지식한입", "ITSub잇섭", "느낌적인느낌","호갱구조대", "너 진짜 똑독하다"))
+st.sidebar.title('시간 순삭 유튜브 추천👇')
+add_selectbox = st.sidebar.selectbox("", ("지식한입", "ITSub잇섭", "느낌적인느낌","호갱구조대", "너 진짜 똑독하다", "슈카월드"))
+values = st.sidebar.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5)
+st.sidebar.write('평가 점수:', values)
+
 
 col1,col2 = st.columns([1,1])
 col3= st.columns([1,1])
@@ -38,7 +41,7 @@ with col2 :
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
 
+ * [icons8](https://icons8.com/)
+    * [flaticon](https://www.flaticon.com/)
+    * [pixabay](https://www.youtube.com/@nomadcoders)
 
-
-values = st.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5)
-st.write('Values:', values)
