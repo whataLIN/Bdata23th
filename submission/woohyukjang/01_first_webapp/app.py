@@ -17,6 +17,11 @@ st.write(
     
     >>[Github](https://github.com/woohyukjang)
 
+    |링크모음|
+    |-|-|
+    |[수업 자료 링크](https://the-fat-cat.notion.site/26-ef748e37e6fa4dfc821ce8972dd9c5fe)|[slack 링크](https://app.slack.com/client/T04NR00MM5F/C04NC7H3K0B/rimeto_profile/U04QX4NB2PR)|
+    |[마크다운 링크](https://the-fat-cat.notion.site/Markdown-42c07b9f12be439c9d6a9f1a240ade4b)|[Github](https://github.com/woohyukjang)|
+
 
     # 정리
     # 제목 (Headline)
