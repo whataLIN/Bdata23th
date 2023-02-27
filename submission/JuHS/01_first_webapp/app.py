@@ -38,10 +38,8 @@ st.write(
     ---
 
     # 참고 사이트
-    * [PlayData](https://playdata.io)
-    * [icons8](https://icons8.com/)
-    * [flaticon](https://www.flaticon.com/)
-    * [pixabay](https://pixabay.com/ko/)
+    * [PlayData](https://playdata.io/)
+    * [YouTube](https://Youtube.com/)
     """
 )
 
