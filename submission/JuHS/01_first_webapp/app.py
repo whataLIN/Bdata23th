@@ -23,9 +23,20 @@ st.write(
 
     ---
 
-    ## 다른 학생들에게 가장 도움이 될 것 같은 유튜브
-    ### 노마드코더
-    > 이유 : 최신 IT 트렌드를 쉽고 재밌게 전달해준다
+    # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
+    ## [노마드코더](https://www.youtube.com/@nomadcoders)
+    ##### 구독자 : 45.4만명
+    
+    + 장점 : 이해가 편하게 쉽게 설명한다.
+    
+    + 단점 : 외국인 유튜버로, 설명을 영어로 한다.
+
+    #### 추천영상 : [주니어 개발자가 빠르게 성장할 수 있는 비법은?](https://www.youtube.com/watch?v=3hxT4cSm03s)
+    
+    ![노마드코더 유튜브 영상](https://i.ytimg.com/vi/3hxT4cSm03s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPfD4H-6UYv5bgNrxjvWi6l-bxLw)
+
+    ---
+
     # 참고 사이트
     * [PlayData](https://playdata.io)
     * [icons8](https://icons8.com/)
