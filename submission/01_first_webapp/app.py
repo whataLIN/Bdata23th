@@ -16,6 +16,8 @@ st.write(
     """
 )
 
+st.sidebar.title('여러분이 추천하고 싶은 채널을 입력해 주세요! 👇')
+st.sidebar.checkbox('체크박스에 표시될 문구')
 
 col1,col2 = st.columns([2,2])
 # 공간을 2:3 으로 분할하여 col1과 col2라는 이름을 가진 컬럼을 생성
@@ -24,7 +26,7 @@ with col1 :
   # column 1 에 담을 내용
   st.write(
     """
-    ### 나에게 가장 도움이 될 것 같은 유튜브
+    #### 나에게 가장 도움이 될 것 같은 유튜브
     """)
 
   st.image("https://user-images.githubusercontent.com/71927533/221631776-7815c4a2-6500-4c1b-ba7a-208b451972ee.jpg")
@@ -34,7 +36,7 @@ with col2 :
   # column 2 에 담을 내용
   st.write(
     """
-    ### 남이 보면 좋을 것 같은 유튜브
+    #### 남이 보면 좋을 것 같은 유튜브
     """)
   st.image("https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg")
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
@@ -52,7 +54,7 @@ if "visibility" not in st.session_state:
     st.session_state.visibility = "visible"
     st.session_state.disabled = False
 
-col = st.columns(2)
+col = st.columns(1)
 
 with col:
     text_input = st.text_input(
