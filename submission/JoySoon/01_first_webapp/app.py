@@ -24,6 +24,11 @@ st.write(
     가끔씩 개발자로써의 조언과 재밌는 심심풀이 영상을 올리기 때문에
     다양한 재미를 느낄 수 있는 채널이다.
 
+    #참고사이트
+    [icons8](http://icons8.com)
+    [flaticon](http://flaticon.com)
+    [pixabay](http://pixabay.com)
+
     """
 )
 
