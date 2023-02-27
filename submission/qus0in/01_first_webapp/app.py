@@ -11,5 +11,10 @@ st.write(
     # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
     ## 노마드코더
     > 이유 : 최신 IT 트렌드를 쉽고 재밌게 전달해준다
+
+    # 참고 사이트
+    * [icons8](https://icons8.com/)
+    * [flaticon](https://www.flaticon.com/)
+    * [pixabay](https://pixabay.com/ko/)
     """
 )
