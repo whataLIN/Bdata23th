@@ -9,8 +9,10 @@ st.write(
     > 이유 : 썸네일이 깔끔해서 보고싶은 동영상을 잘 찾아볼 수 있을 것 같다.
 
     ### 다른 학생들에게 가장 도움이 될 것 같은 유튜브
-    <span style="color:#2EFE9A">####**노마드코더**</span>
+    ####<span style="color:#2EFE9A">**노마드코더**</span>
     > 이유 : 유명한 채널이고 코딩말고도 개발자들을 위한 팁들도 있어서 유용할 것 같다.
+
+    <span style="color:yellow">노마드코더</span>
 
     # 참고 사이트
     * [icons8](https://icons8.com/)
