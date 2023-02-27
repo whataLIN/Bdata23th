@@ -7,10 +7,9 @@ st.write(
     ![이미지에 대한 설명](https://cdn.imweb.me/thumbnail/20221116/b33db8955fb2f.png)
     #### **데이터 엔지니어링 트랙 23기 주현성**
     
+    ---
 
     # 나에게 가장 도움이 될 것 같은 유튜브
-    
-
     ## [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
     ##### 구독자 : 8.58만명
 
@@ -22,14 +21,6 @@ st.write(
     ![이미지에 대한 설명](https://i.ytimg.com/vi/1I3hMwQU6GU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADnpGfxOX13n9Sp78ug6cFst-XPw)
 
     ---
-
-    -----
-
-    - - - - -
-
-    * * *
-
-    *******
 
     ## 다른 학생들에게 가장 도움이 될 것 같은 유튜브
     ### 노마드코더
