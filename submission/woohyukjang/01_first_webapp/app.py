@@ -15,9 +15,9 @@ st.write(
 
     >>[마크다운 링크](https://the-fat-cat.notion.site/Markdown-42c07b9f12be439c9d6a9f1a240ade4b)
     
-    >>[내 깃허브](https://github.com/woohyukjang)
+    >>[Github](https://github.com/woohyukjang)
 
-    
+
     # 정리
     # 제목 (Headline)
     ## 2단계 제목
