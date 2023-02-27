@@ -34,6 +34,7 @@ st.write(
     * [드림코딩](https://www.youtube.com/@dream-coding/)
     * [독학하는 프로그래머 김플](https://www.youtube.com/@kimfl/)
     </br>
+    ---
     * ### Data/AL/ML/DL
     * [오늘의코드](https://www.youtube.com/@todaycode/)
     * [퇴근후딴짓](https://www.youtube.com/@ai-study/)
