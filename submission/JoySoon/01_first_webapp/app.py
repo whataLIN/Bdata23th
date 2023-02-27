@@ -9,7 +9,7 @@ st.write(
     ---
     ### 노마드코더
     ---
-     ![이미지에 대한 설명](https://icons8.com/illustrations/illustration/3d-casual-life-young-woman-sitting-in-front-of-laptop-and-having-an-idea-1)
+     ![](https://icons8.com/illustrations/illustration/3d-casual-life-woman-in-online-meetings)
     > 이유 : 주로 개발시장에 현황에 대해 소신 발언이 많은 편이며
     자칫 어려운 코딩 내용들을 쉬운 말로 풀어내서 이야기하기 때문에 
     나같은 입문자들에게 개발시장의 현황에 대해서 알 수 있었다.
@@ -19,7 +19,7 @@ st.write(
     ---
     ### 나도 코딩
     ---
-    ![이미지에 대한 설명](https://icons8.com/illustrations/illustration/3d-casual-life-solleagues-discussing-team-project)
+    ![](https://icons8.com/illustrations/illustration/3d-casual-life-solleagues-discussing-team-project)
     > 이유 : 주로 고퀄리티 무료 강좌들을 업로드하지만
     가끔씩 개발자로써의 조언과 재밌는 심심풀이 영상을 올리기 때문에
     다양한 재미를 느낄 수 있는 채널이다.
