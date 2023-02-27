@@ -23,6 +23,5 @@ st.write(
   #참고사이트
   [노마드코더](https://www.youtube.com/@nomadcoders)
   [조코딩](https://www.youtube.com/@jocoding)
-  
   """
 )
