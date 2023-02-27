@@ -9,12 +9,30 @@ import streamlit as st
 # ''' ''' (동일 기능)
 
 
+st.sidebar.[element_name]
+
+with st.sidebar:
+    st.[element_name]
+
+add_selectbox = st.sidebar.selectbox(
+    "How would you like to be contacted?",
+    ("Email", "Home phone", "Mobile phone")
+)
+
+# Using "with" notation
+with st.sidebar:
+    add_radio = st.radio(
+        "Choose a shipping method",
+        ("Standard (5-15 days)", "Express (2-5 days)")
+    )
+
+
 st.balloons()
 
 
 st.write(
     """
-    ## 코딩 유튜브 채널 추천❗
+    ## 코딩 유튜브 채널 추천❗  
     #### 나에게 가장 도움이 될 것 같은 유튜브
     """
 )
@@ -25,11 +43,6 @@ st.image(
 
 st.info('추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!', icon="ℹ️")
 
-
-video_file = open('https://youtu.be/EkmFkW03ftE', 'rb')
-video_bytes = video_file.read()
-
-st.video(video_bytes)
 
 
 st.write(
@@ -45,11 +58,6 @@ st.image(
 
 st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
-
-video_file = open('https://youtu.be/Cnbmrh99c1o', 'rb')
-video_bytes = video_file.read()
-
-st.video(video_bytes)
 
 
 
