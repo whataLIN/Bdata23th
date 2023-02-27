@@ -5,7 +5,7 @@ import streamlit as st
 st.write(
     """
     ![이미지에 대한 설명](https://cdn.imweb.me/thumbnail/20221116/b33db8955fb2f.png)
-    # **데이터 엔지니어링 트랙 23기 주현성**
+    #### **데이터 엔지니어링 트랙 23기 주현성**
     ## 나에게 가장 도움이 될 것 같은 유튜브
     ### 빵형의 개발도상국
     
