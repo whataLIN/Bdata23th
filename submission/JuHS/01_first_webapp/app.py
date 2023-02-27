@@ -8,8 +8,10 @@ st.write(
     #### **데이터 엔지니어링 트랙 23기 주현성**
     
     # 나에게 가장 도움이 될 것 같은 유튜브
-    ## 얄팍한 코딩사전
+    
     ![이미지에 대한 설명](https://yt3.ggpht.com/ytc/AL5GRJVzjSwh0Mv6I6bjCN2vlPvtPnZOohnr4U0WF1xL8XI=s68-c-k-c0x00ffffff-no-rj)
+    ## 얄팍한 코딩사전
+    
     ![이미지에 대한 설명](https://i.ytimg.com/vi/1I3hMwQU6GU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADnpGfxOX13n9Sp78ug6cFst-XPw)
     ### 빵형의 개발도상국
     
