@@ -14,7 +14,21 @@ st.write(
     |[마크다운 링크](https://the-fat-cat.notion.site/Markdown-42c07b9f12be439c9d6a9f1a240ade4b)|
     |[Github](https://github.com/woohyukjang)|
  
-  
+    ##강사님 추천 강의
+
+    > 내가 들어야 할 강의
+
+    >>[나도코딩](https://www.youtube.com/watch?v=kWiCuklohdY&t=10s) 
+    
+    ###듣다 손놓은 6시간 강의 완강하자
+
+    
+    > 학원 동기들에게 추천하는 강의
+
+    >>[혁펜하임](https://www.youtube.com/@hyukppen)
+
+    ###머신러닝 이론을 정말 잘 설명해 주심
+    
     # 정리
     # 제목 (Headline)
     ## 2단계 제목
