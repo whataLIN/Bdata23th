@@ -11,6 +11,12 @@ st.write(
     # 남이 보면 좋을 것 같은 유튜브
     ## 노마드 코더
     > 이유 : 썸네일이 간단명료하고 이쁨, it 트렌디함
+
+    # 참고 사이트
+    * [icons8](https://icons8.com/)
+    * [flaticon](https://flaticon.com/)
+    * [pixabay](https://pixabay.com/ko/)
+
     """
 )
 
