@@ -25,14 +25,14 @@ col3= st.columns([1,1])
 
 with col1 :
   # column 1 에 담을 내용
-  st.markdown("나에게 **:blue[가장 도움이 될 것 같은]** 유튜브")
+  st.markdown("**나에게 :blue[가장 도움이 될 것 같은] 유튜브**")
 
   st.image("https://user-images.githubusercontent.com/71927533/221650828-c1a86b95-99ac-4a85-a4cc-e398eaf2865f.jpg")
   st.info('추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!', icon="ℹ️")
 
 with col2 :
   # column 2 에 담을 내용
-  st.markdown("**:red[남]** 이보면 좋을 것 같은 유튜브")
+  st.markdown("**:red[남]이보면 좋을 것 같은 유튜브**")
   st.image("https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg")
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
