@@ -29,7 +29,11 @@ st.write(
 
     # 참고 사이트
     * ### 개발전반
-    * [생활코딩](https://www.youtube.com/@coohde/)
+    |책의 제목|작가|출판일|
+    |-|-|-|
+    |장발장|[생활코딩]|(https://www.youtube.com/@coohde/)|
+    |파이썬|김철수27세|1971.09.01|
+    
     * [노마드 코딩](https://www.youtube.com/@nomadcoders/)
     * [조코딩](https://www.youtube.com/@jocoding/)
     * [코딩하는거니](https://www.youtube.com/@gunnycoding/)
@@ -46,10 +50,6 @@ st.write(
     * [메타코드M](https://www.youtube.com/@mcodeM/)
     * [AISchool](https://www.youtube.com/@aischool_ai/)
 
-     
-    * 1$ = 1,300원
-    * ^_^ 
-    """
 
     """
     * [표시될 텍스트](https://naver.com)<br>
