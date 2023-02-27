@@ -18,3 +18,6 @@ st.write(
     * [pixabay](https://pixabay.com/ko/)
     """
 )
+
+# """ """ : 여러 줄을 묶어서 표시할 수 있는 문자열
+# ''' ''' (동일기능)
