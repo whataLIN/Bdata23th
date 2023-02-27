@@ -4,13 +4,26 @@ import streamlit as st
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 # 가장 간단한 웹 사이트를 만드는 방법
 
+st.image(
+    "https://www.flaticon.com/free-icon/quality_654117?term=recommend&page=1&position=3&origin=search&related_id=654117"
+    )
+
+
 st.write(
     """
-    st.image("https://www.flaticon.com/free-icon/quality_654117?term=recommend&page=1&position=3&origin=search&related_id=654117")
-    ## 코딩 유튜브 추천 채널 목록
+    ## 코딩 유튜브 채널 추천 😺
     #### 나에게 가장 도움이 될 것 같은 유튜브
-    ##### 빵형의 개발 도상국
+    <mark>빵형의 개발 도상국</mark>
+    """
+)
+
+st.write(
+    """
     > 이유 : 강사님 추천^^..
+    video_file = open('https://youtu.be/EkmFkW03ftE', 'rb')
+    video_bytes = video_file.read()
+
+    st.video(video_bytes)
 
     #### 남이 보면 좋을 것 같은 유튜브
     ##### 노마드 코더
@@ -21,6 +34,8 @@ st.write(
     st.video(video_bytes)
 
     st.image("https://user-images.githubusercontent.com/71927533/221631776-7815c4a2-6500-4c1b-ba7a-208b451972ee.jpg")
+
+
 
     # 참고 사이트
     * [icons8](https://icons8.com/)
