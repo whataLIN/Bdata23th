@@ -55,7 +55,7 @@ st.write(
      
     * 1$ = 1,300원
     * ^_^ dkssudsdjajsdiajdsad
-    [표시될 텍스트](https://naver.com)<br>
+    * [표시될 텍스트](https://naver.com)<br>
 ![이미지에 대한 설명](https://ouch-cdn2.icons8.com/llLHKo43gAdT2ZjeLQl1u4V_Gt5c8h59In2dgFsJXg0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjY0/LzRiZTZiMzkyLTlk/NWUtNDA2Zi04ZTAx/LWRlODYzMjQ2YzBi/My5wbmc.png)
     """
 
