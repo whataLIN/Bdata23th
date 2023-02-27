@@ -19,7 +19,7 @@ st.write(
 
 st.sidebar.title('시간 순삭 유튜브 추천👇')
 add_selectbox = st.sidebar.selectbox("", ("지식한입", "ITSub잇섭", "느낌적인느낌","호갱구조대", "너 진짜 똑독하다", "슈카월드"))
-values = st.sidebar.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5)
+values = st.sidebar.slider('추천 채널 만족도를 평가', 1, 5)
 st.sidebar.write('평가 점수:', values)
 
 
@@ -33,6 +33,10 @@ with col1 :
 
   st.image("https://user-images.githubusercontent.com/71927533/221650828-c1a86b95-99ac-4a85-a4cc-e398eaf2865f.jpg")
   st.info('추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!', icon="ℹ️")
+  video_file = open('video.mp4', 'rb')
+  video_bytes = video_file.read()
+	
+  st.video(video_bytes)
 
 with col2 :
   # column 2 에 담을 내용
