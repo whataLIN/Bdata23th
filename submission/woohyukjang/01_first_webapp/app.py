@@ -16,14 +16,20 @@ st.write(
  
     
 
+
+
+
     * ###### 내가 들어야 할 강의
 
      >[나도코딩](https://www.youtube.com/watch?v=kWiCuklohdY&t=10s) 
     
      듣다 손놓은 6시간 강의 완강하자
 
-    
-    * ###### 학원 동기들에게 추천하는 강의
+
+
+
+
+    * ###### 내가 추천하는 강의
 
      >[혁펜하임](https://www.youtube.com/@hyukppen)
 
@@ -32,7 +38,9 @@ st.write(
     
 
 
-    * # 참고 사이트
+
+
+    * ###### 참고 사이트
      * [icons8](https://icons8.com)
      * [flation](https://flaticon.com)
      * [pixabay](https://pixabay.com/ko/)
