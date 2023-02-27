@@ -8,7 +8,7 @@ st.write(
     #### **데이터 엔지니어링 트랙 23기 주현성**
     
 
-    # <mark>나에게 가장 도움이 될 것 같은 유튜브</mark>
+    # 나에게 가장 도움이 될 것 같은 유튜브
     
 
     ## [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
