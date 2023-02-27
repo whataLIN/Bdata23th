@@ -40,8 +40,3 @@ with col2 :
   st.image("https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg")
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
-
- * [icons8](https://icons8.com/)
-    * [flaticon](https://www.flaticon.com/)
-    * [pixabay](https://www.youtube.com/@nomadcoders)
-
