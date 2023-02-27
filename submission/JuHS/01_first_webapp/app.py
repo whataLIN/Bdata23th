@@ -12,7 +12,7 @@ st.write(
     ## [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
     ##### 구독자 : 8.58만명
     
-    #### 추천영상 [제대로 파는 Git & GitHub - 깃 끝.장.내.기](https://www.youtube.com/watch?v=1I3hMwQU6GU)
+    #### 추천영상 : [제대로 파는 Git & GitHub - 깃 끝.장.내.기](https://www.youtube.com/watch?v=1I3hMwQU6GU)
     ![이미지에 대한 설명](https://i.ytimg.com/vi/1I3hMwQU6GU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADnpGfxOX13n9Sp78ug6cFst-XPw)
     
 
