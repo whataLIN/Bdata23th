@@ -12,22 +12,15 @@ st.balloons()
 
 st.write(
     """
-    ## 코딩 유튜브 채널 추천❗    
-
+    # 코딩 유튜브 채널 추천❗  
     """
 )
 
 st.sidebar.title('여러분의 추천 채널을 소개해 주세요! 👇')
-st.sidebar.slider(
-    "추천 채널 만족도 평가",
-     0, #시작 값 
-     5, #끝 값  
-    (2.5, 7.5) # 기본값, 앞 뒤로 2개 설정 /  하나만 하는 경우 value=2.5 이런 식으로 설정가능
-)
 
 
 
-col1,col2 = st.columns([2,2])
+col1,col2 = st.columns([1,1])
 # 공간을 2:3 으로 분할하여 col1과 col2라는 이름을 가진 컬럼을 생성
 
 with col1 :
