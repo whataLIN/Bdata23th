@@ -41,10 +41,6 @@ st.write(
     * [PlayData](https://playdata.io/)
     * [YouTube](https://Youtube.com/)
     """
-    
-    """
-    # 참고사이트
-    """
 )
 
 # """ """ : 여러 줄을 묶어서 표시할 수 있는 문자열
