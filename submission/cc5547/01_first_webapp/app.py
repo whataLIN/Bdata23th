@@ -9,6 +9,10 @@ st.write(
     """
     # 제 첫 웹페이지 입니다
     ## 부족하지만 많이 사랑해주세요!
+    # 1. 나에게 가장 도움이 될 것 같은 유튜
+
+
+
     * 1$ = 1,300원
     * ^_^ dkssudsdjajsdiajdsad
 
@@ -38,4 +42,5 @@ st.image(
 
 st.image(
     "https://maxst.icons8.com/vue-static/landings/page-index/products/preview/link-preview/ouch/ouch1.png"
+    <img src = "https://yt3.googleusercontent.com/ytc/AL5GRJW3Mjckcci34x38HL3Li7nTYrnWFGZQ4Vjc9eI8=s176-c-k-c0x00ffffff-no-rj" width = "450px" height = "300px" alt = "생활코딩"></img><br/>
 )
