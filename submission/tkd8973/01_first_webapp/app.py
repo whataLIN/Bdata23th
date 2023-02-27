@@ -4,7 +4,7 @@ import streamlit as st
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 st.write(
     """
-    # DAY1.
+    # DAY1
     ## 알아두면 유용한 Colab-PYTHON 단축키
     > alt + shift + ↑↓ : 같은 코드 복붙
     > shift + home, end : 현재 위치에서 앞,뒤로 드래그
