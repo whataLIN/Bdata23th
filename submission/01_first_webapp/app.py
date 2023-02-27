@@ -8,55 +8,35 @@ import streamlit as st
 # """ """ 여러 줄을 묶어서 표시할 수 있는 문자열
 # ''' ''' (동일 기능)
 
-
-st.sidebar.[element_name]
-
-with st.sidebar:
-    st.[element_name]
-
-add_selectbox = st.sidebar.selectbox(
-    "How would you like to be contacted?",
-    ("Email", "Home phone", "Mobile phone")
-)
-
-# Using "with" notation
-with st.sidebar:
-    add_radio = st.radio(
-        "Choose a shipping method",
-        ("Standard (5-15 days)", "Express (2-5 days)")
-    )
-
-
 st.balloons()
 
-
 st.write(
     """
-    ## 코딩 유튜브 채널 추천❗  
-    #### 나에게 가장 도움이 될 것 같은 유튜브
-    """
-)
-
-st.image(
-     "https://user-images.githubusercontent.com/71927533/221631776-7815c4a2-6500-4c1b-ba7a-208b451972ee.jpg"
-)
-
-st.info('추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!', icon="ℹ️")
-
-
-
-st.write(
-    """
-    #### 남이 보면 좋을 것 같은 유튜브
+    # 코딩 유튜브 채널 추천❗  
     """
 )
 
 
-st.image(
-     "https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg"
-)
+col1,col2 = st.columns([1,1])
+# 공간을 2:3 으로 분할하여 col1과 col2라는 이름을 가진 컬럼을 생성
 
-st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
+with col1 :
+  # column 1 에 담을 내용
+  st.title('나에게 가장 도움이 될 것 같은 유튜브')
+  st.image("https://user-images.githubusercontent.com/71927533/221631776-7815c4a2-6500-4c1b-ba7a-208b451972ee.jpg")
+  st.info('추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!', icon="ℹ️")
+
+with col2 :
+  # column 2 에 담을 내용
+  st.title('남이 보면 좋을 것 같은 유튜브')
+  st.image("https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg")
+  st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
+
+
+# with 구문 말고 다르게 사용 가능 
+col1.subheader(' i am column1  subheader !! ')
+col2.checkbox('this is checkbox2 in col2 ') 
+#=>위에 with col2: 안의 내용과 같은 기능을합니다
 
 
 
