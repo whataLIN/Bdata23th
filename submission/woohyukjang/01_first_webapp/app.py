@@ -7,7 +7,7 @@ st.write(
     # 장우혁 공부방  *Since 2023-02-27*
     ---
 
-    |링크모음|
+    |링크 모음|
     |-|
     |[수업 자료 링크](https://the-fat-cat.notion.site/26-ef748e37e6fa4dfc821ce8972dd9c5fe)|
     |[slack 링크](https://app.slack.com/client/T04NR00MM5F/C04NC7H3K0B/rimeto_profile/U04QX4NB2PR)|
