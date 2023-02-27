@@ -4,14 +4,18 @@ import streamlit as st
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 st.write(
     """
-    # 가나다라마바사
-    ## 부족하지만 많이 사랑해주세요!
-    * 1$ = 1,300원
-    * ^_^
+        # 나에게 가장 도움이 될 것 같은 유튜브
+    ## 오늘코드
+    > 이유 : 데이터분석에 관한 영상들이 많다
+    # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
+    ## 김플 스튜디오
+    > 이유 : short로 만든 컨텐츠와 다양한 예제가 존재한다.
+    # 참고 사이트
+    * [icons8](https://icons8.com/)
+    * [flaticon](https://www.flaticon.com/)
+    * [pixabay](https://pixabay.com/ko/)
     """
 )
 
-# https://pixabay.com/ko
-st.image(
-    "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_960_720.jpg"
-)
+# """ """ : 여러 줄을 묶어서 표시할 수 있는 문자열
+# ''' ''' (동일기능)
