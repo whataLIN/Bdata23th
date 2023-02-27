@@ -4,7 +4,7 @@ import streamlit as st
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 # https://icons8.com/ko
 st.image(
-    "https://maxst.icons8.com/vue-static/landings/page-index/products/preview/link-preview/ouch/ouch1.png"
+    "https://blog.kakaocdn.net/dn/JvPqb/btqAiWpd8sf/Ah9IYr6lDRBb8oxSCJYQyK/img.png"
 )
 
 st.write(
