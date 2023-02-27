@@ -18,8 +18,6 @@ st.write(
 )
 
 st.sidebar.title('여러분의 추천 채널을 소개해 주세요! 👇')
-st.sidebar.text_input()
-
 
 
 col1,col2 = st.columns([1,1])
