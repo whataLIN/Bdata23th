@@ -8,12 +8,6 @@ import streamlit as st
 # """ """ 여러 줄을 묶어서 표시할 수 있는 문자열
 # ''' ''' (동일 기능)
 
-st.sidebar.[element_name]
-
-with st.sidebar:
-    st.[element_name]
-
-
 
 st.balloons()
 
