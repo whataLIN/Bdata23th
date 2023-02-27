@@ -43,5 +43,5 @@ with col2 :
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
 
-  values = st.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5, (2, 3, 4))
+  values = st.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5)
   st.write('Values:', values)
