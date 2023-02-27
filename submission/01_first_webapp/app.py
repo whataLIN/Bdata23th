@@ -32,7 +32,7 @@ st.write(
     """
 )
 
-video_file = open('https://youtu.be/EkmFkW03ftE', 'rb')
+video_file = open('https://www.youtube.com/embed/EkmFkW03ftE', 'rb')
 video_bytes = video_file.read()
 
 st.video(video_bytes)
