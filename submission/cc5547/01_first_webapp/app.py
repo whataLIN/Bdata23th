@@ -45,7 +45,7 @@ st.write(
     * [혁펜하임](https://www.youtube.com/@hyukppen/)
     * [메타코드M](https://www.youtube.com/@mcodeM/)
     * [AISchool](https://www.youtube.com/@aischool_ai/)
-
+    """
 )
 
 # https://icons8.com/ko
