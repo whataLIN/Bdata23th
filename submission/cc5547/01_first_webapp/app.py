@@ -8,13 +8,9 @@ st.write(
     
     """
     # 제 첫 웹페이지 입니다
-    ## 부족하지만 많이 사랑해주세요!
+    ### 부족하지만 많이 사랑해주세요!
     # 1. 나에게 가장 도움이 될 것 같은 유튜브
 
-
-
-    * 1$ = 1,300원
-    * ^_^ dkssudsdjajsdiajdsad
 
 
 
@@ -28,11 +24,13 @@ st.write(
 
 
     # 참고 사이트
-    * [icons8](https://icons8.com/)
-    * [flaticon](https://flaticon.com/)
-    * [pixabay](https://pixabay.com/)
+    * [생활코딩](https://www.youtube.com/@coohde/)
+    * [노마드 코](https://www.youtube.com/@nomadcoders/)
+    * [조코딩](https://www.youtube.com/@jocoding/)
 
      
+    * 1$ = 1,300원
+    * ^_^ dkssudsdjajsdiajdsad
     """
 
 )
