@@ -5,6 +5,7 @@ import streamlit as st
 st.write(
     """
     # 인생 첫 웹페이지 제작 *2023-02-27*
+    ---
     
     # 정리
     # 제목 (Headline)
