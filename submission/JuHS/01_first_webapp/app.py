@@ -10,12 +10,12 @@ st.write(
     # 나에게 가장 도움이 될 것 같은 유튜브
     
     ## [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
-    > 구독자 : 8.58만명
+    ##### 구독자 : 8.58만명
     
     #### 추천영상
     ![이미지에 대한 설명](https://i.ytimg.com/vi/1I3hMwQU6GU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADnpGfxOX13n9Sp78ug6cFst-XPw)
     
-    <br>(https://www.youtube.com/@yalco-coding)
+    (https://www.youtube.com/@yalco-coding)
 
     > 이유 : 새로운 머신러닝/딥러닝 지식들이 많다
 
@@ -32,6 +32,7 @@ st.write(
     ### 노마드코더
     > 이유 : 최신 IT 트렌드를 쉽고 재밌게 전달해준다
     # 참고 사이트
+    * [PlayData](https://playdata.io)
     * [icons8](https://icons8.com/)
     * [flaticon](https://www.flaticon.com/)
     * [pixabay](https://pixabay.com/ko/)
