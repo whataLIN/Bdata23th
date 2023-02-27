@@ -21,6 +21,7 @@ st.sidebar.title('여러분의 추천 채널을 소개해 주세요! 👇')
 
 
 col1,col2 = st.columns([1,1])
+col3= st.columns([1])
 # 공간을 2:3 으로 분할하여 col1과 col2라는 이름을 가진 컬럼을 생성
 
 with col1 :
@@ -43,5 +44,6 @@ with col2 :
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
 
-  values = st.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5)
-  st.write('Values:', values)
+with col3 :
+    values = st.slider('추천 채널이 마음에 드셨다면 만족도를 평가해 주세요!', 1, 5)
+    st.write('Values:', values)
