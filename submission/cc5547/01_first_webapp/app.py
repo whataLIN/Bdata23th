@@ -24,7 +24,7 @@ st.write(
 
 
     # 참고 사이트
-    * ### __개발전반
+    * __### 개발전반
     * [생활코딩](https://www.youtube.com/@coohde/)
     * [노마드 코](https://www.youtube.com/@nomadcoders/)
     * [조코딩](https://www.youtube.com/@jocoding/)
