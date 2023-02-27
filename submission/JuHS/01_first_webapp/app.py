@@ -4,9 +4,11 @@ import streamlit as st
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 st.write(
     """
+    ![이미지에 대한 설명](https://cdn.imweb.me/thumbnail/20221116/b33db8955fb2f.png)
+    # **데이터 엔지니어링 트랙 23기 주현성**
     # 나에게 가장 도움이 될 것 같은 유튜브
     ## 빵형의 개발도상국
-    ![이미지에 대한 설명](https://cdn.imweb.me/thumbnail/20221116/b33db8955fb2f.png)
+    
     > 이유 : 새로운 머신러닝/딥러닝 지식들이 많다
     # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
     ## 노마드코더
