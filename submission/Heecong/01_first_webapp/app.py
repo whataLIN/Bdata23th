@@ -11,5 +11,13 @@ st.write(
     # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
     ## 노마드코더
     > 이유 : 
+
+    # 참고 사이트
+    * [icons8](https://icons8.com/)
+    * [flaticon](https://www.flaticon.com/)
+    * [pixabay](https://pixabay.com/)
     """
 )
+
+# """ """ : 여러 줄을 묶어서 표시할 수 있는 문자열
+# ''' ''' (동일가능)
