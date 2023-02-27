@@ -5,19 +5,20 @@ import streamlit as st
 st.write(
     """
     ### 나에게 가장 도움이 될 것 같은 유튜브
-    #### <mark>**생활코딩**</mark>
-    > 이유 : 썸네일이 깔끔해서 보고싶은 동영상을 잘 찾아볼 수 있을 것 같다.\n
+    #### **생활코딩**
+    > <mark>이유</mark> : 썸네일이 깔끔해서 보고싶은 동영상을 잘 찾아볼 수 있을 것 같다.\n
     > [생활코딩 채널 바로가기](https://www.youtube.com/@coohde)
+    
     ---
 
     ### 다른 학생들에게 가장 도움이 될 것 같은 유튜브
-    ####<mark>**노마드코더**</mark>
-    > 이유 : 유명한 채널이고 코딩말고도 개발자들을 위한 팁들도 있어서 유용할 것 같다.\n
+    #### **노마드코더**
+    > <mark>이유</mark> : 유명한 채널이고 코딩말고도 개발자들을 위한 팁들도 있어서 유용할 것 같다.\n
     > [노마드코더 채널 바로가기](https://www.youtube.com/@nomadcoders)
 
 
 
-    # 참고 사이트
+    ##### 참고 사이트
     * [icons8](https://icons8.com/)
     * [flaticon](https://www.flaticon.com/)
     * [pixabay](https://pixabay.com/)
