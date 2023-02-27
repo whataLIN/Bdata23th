@@ -9,11 +9,11 @@ st.write(
     
     # 나에게 가장 도움이 될 것 같은 유튜브
     
-
-    ![이미지에 대한 설명](https://i.ytimg.com/vi/1I3hMwQU6GU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADnpGfxOX13n9Sp78ug6cFst-XPw)
-    ---
     ## [얄팍한 코딩사전](https://www.youtube.com/@yalco-coding)
     > 구독자 : 8.58만명
+    
+    #### 추천영상
+    ![이미지에 대한 설명](https://i.ytimg.com/vi/1I3hMwQU6GU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADnpGfxOX13n9Sp78ug6cFst-XPw)(https://www.youtube.com/@yalco-coding)
 
     > 이유 : 새로운 머신러닝/딥러닝 지식들이 많다
 
