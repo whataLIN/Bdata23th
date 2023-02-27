@@ -15,7 +15,7 @@ st.write(
     #참고 사이트
     * [icons8](https://icons8.com/)
     * [flaticon](https://www.flaticon.com/)
-    * [pixabay](https://pixaby.com/)
+    * [pixabay](https://pixaby.com/ko)
     """
 )
 
