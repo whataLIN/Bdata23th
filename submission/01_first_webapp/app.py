@@ -65,6 +65,6 @@ with col2 :
     > 출처: 노마드 코더 유튜브
     """)
 
-  st.markdown("<iframe width="560" height="315" src="https://www.youtube.com/embed/Cnbmrh99c1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>")
+  st.markdown("<iframe width="560",height="315", src="https://www.youtube.com/embed/Cnbmrh99c1o",title="YouTube video player",frameborder="0",allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>")
 
 
