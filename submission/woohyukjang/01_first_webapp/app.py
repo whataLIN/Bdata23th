@@ -25,7 +25,9 @@ st.write(
     
      >[혁펜하임](https://www.youtube.com/@hyukppen)
 
-     
+     st.image(https://yt3.googleusercontent.com/_EEozVzmbjjbLsMVP4smLieo0LhwC7kPmCUsEEq9t_3xexiNas9ZEsD8iIMorsnWGkw6ROlw=s176-c-k-c0x00ffffff-no-rj)
+
+
      듣다 손놓은 6시간 강의 완강하자
 
 
