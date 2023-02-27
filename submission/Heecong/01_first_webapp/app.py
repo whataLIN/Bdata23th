@@ -17,7 +17,7 @@ st.write(
     > [노마드코더 채널 바로가기](https://www.youtube.com/@nomadcoders)
 
     ---
-    \n\n\n
+    
     ##### 참고 사이트
     * [icons8](https://icons8.com/)
     * [flaticon](https://www.flaticon.com/)
