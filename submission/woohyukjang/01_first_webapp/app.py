@@ -14,11 +14,7 @@ st.write(
     |[마크다운 링크](https://the-fat-cat.notion.site/Markdown-42c07b9f12be439c9d6a9f1a240ade4b)|
     |[Github](https://github.com/woohyukjang)|
  
-    |책의 제목|작가|출판일|
-    |-|-|-|
-    |장발장|변영인3세|2022.09.01|
-    |파이썬|김철수27세|1971.09.01|
-    
+  
     # 정리
     # 제목 (Headline)
     ## 2단계 제목
