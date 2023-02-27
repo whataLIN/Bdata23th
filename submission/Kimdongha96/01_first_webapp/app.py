@@ -12,7 +12,7 @@ st.write(
 
   
 
-  
+
   # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
   ## 조코딩
   > 이유 : 구독자수와 조회수가 잘 나오고 이해하기 쉽게 설명을 해주는 느낌이다.
@@ -21,8 +21,8 @@ st.write(
 
 
   #참고사이트
-  [icons8](https://icons8.com)
-  [flaticon](https://flaticon.com)
-  [pixabay](https://pixabay.com)
+  [노마드코더](https://www.youtube.com/@nomadcoders)
+  [조코딩](https://www.youtube.com/@jocoding)
+  
   """
 )
