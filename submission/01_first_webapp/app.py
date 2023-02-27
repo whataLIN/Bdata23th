@@ -43,7 +43,8 @@ with col1 :
 
   st.write(
     """
-    > 출처: 빵형의 개발도상국, 노마드 코더 유튜브
+    > 출처: [빵형의 개발도상국](https://www.youtube.com/@bbanghyong/), 노마드 코더 유튜브
+    
     """)
 
 
