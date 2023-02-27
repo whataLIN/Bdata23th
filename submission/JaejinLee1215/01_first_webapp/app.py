@@ -6,7 +6,7 @@ st.write(
     """
 
     
-    # 나에게 가장 도움이 될 것 같은 유튜브 ![](https://cdn-icons-png.flaticon.com/512/4472/4472628.png)
+    # 나에게 가장 도움이 될 것 같은 유튜브 <br> ![](https://cdn-icons-png.flaticon.com/512/4472/4472628.png)
     ---
     ## [메타코드M](https://www.youtube.com/@mcodeM) [![](https://yt3.googleusercontent.com/5tbNEN4mSD0NC1vWGWPX1Y4YSEPVEUhuXTM9eSW4Prb_m-TUW1f9NBpAVLVLHWwx2-ob9DpnCA=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@mcodeM)
     > **이유** 
