@@ -13,7 +13,7 @@ st.write(
       |[slack 링크](https://app.slack.com/client/T04NR00MM5F/C04NC7H3K0B/rimeto_profile/U04QX4NB2PR)|
       |[마크다운 링크](https://the-fat-cat.notion.site/Markdown-42c07b9f12be439c9d6a9f1a240ade4b)|
       |[Github](https://github.com/woohyukjang)|
- 
+      |[구글](https://google.com)|
     
 
 
@@ -25,7 +25,6 @@ st.write(
     
      >[혁펜하임](https://www.youtube.com/@hyukppen)
 
-     st.image(https://yt3.googleusercontent.com/_EEozVzmbjjbLsMVP4smLieo0LhwC7kPmCUsEEq9t_3xexiNas9ZEsD8iIMorsnWGkw6ROlw=s176-c-k-c0x00ffffff-no-rj)
 
 
      듣다 손놓은 6시간 강의 완강하자
