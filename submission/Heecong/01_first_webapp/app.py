@@ -14,10 +14,10 @@ st.write(
     ### 다른 학생들에게 가장 도움이 될 것 같은 유튜브 :satisfied:
     #### **노마드코더**
     > 이유 : 유명한 채널이고 코딩말고도 개발자들을 위한 팁들도 있어서 유용할 것 같다.\n
-    > [노마드코더 채널 바로가기](https://www.youtube.com/@nomadcoders) \n\n\n
+    > [노마드코더 채널 바로가기](https://www.youtube.com/@nomadcoders)
 
-
-
+    ---
+    \n\n\n
     ##### 참고 사이트
     * [icons8](https://icons8.com/)
     * [flaticon](https://www.flaticon.com/)
