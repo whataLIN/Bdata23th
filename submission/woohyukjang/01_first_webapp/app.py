@@ -23,6 +23,9 @@ st.write(
 
      >[나도코딩](https://www.youtube.com/watch?v=kWiCuklohdY&t=10s) 
     
+     >[혁펜하임](https://www.youtube.com/@hyukppen)
+
+     
      듣다 손놓은 6시간 강의 완강하자
 
 
