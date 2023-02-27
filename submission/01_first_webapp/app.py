@@ -22,13 +22,20 @@ col1,col2 = st.columns([2,2])
 
 with col1 :
   # column 1 에 담을 내용
-  st.title('나에게 가장 도움이 될 것 같은 유튜브')
+  st.write(
+    """
+    ### 나에게 가장 도움이 될 것 같은 유튜브
+    """)
+
   st.image("https://user-images.githubusercontent.com/71927533/221631776-7815c4a2-6500-4c1b-ba7a-208b451972ee.jpg")
   st.info('추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!', icon="ℹ️")
 
 with col2 :
   # column 2 에 담을 내용
-  st.title('남이 보면 좋을 것 같은 유튜브')
+  st.write(
+    """
+    ### 남이 보면 좋을 것 같은 유튜브
+    """)
   st.image("https://user-images.githubusercontent.com/71927533/221631810-b72fa62f-2c41-4a86-a105-2f4a0c1e1b2c.jpg")
   st.info('추천 이유 : IT 트렌드 흐름을 알기 쉽고 빠르게 설명해주고, 간단 명료합니다!', icon="ℹ️")
 
