@@ -6,17 +6,21 @@ st.write(
     """
     # 나에게 가장 도움이 될 것 같은 유튜브
     ## 노마드코더
-    > 이유 : 
+    > 이유 : 주로 개발시장에 대해 자기서 소진 발언이 많은 편이며<br> 
+    자칫 어려운 코딩 내용들을 쉽게 풀어내서 이야기하기<br>
+    때문에 나같은 입문자들에게 개발시장의 현황에 대해서 알 수 있었다.
 
     # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
     ## 나도 코딩
-    > 이유 :
+    > 이유 : 주로 고퀄리티 무료 강좌들을 업로드하지만<br>
+    가끔씩 개발자로써의 조언과 중간중간에 재밌는 영상을 올리기 때문에<br>
+    다양한 재미를 느낄 수 있는 채널이다.
 
     #참고사이트
-    [icons8](http://icons88.com)
-    [flaticon](http://flaticon.com)
-    [pixabay](http://pixabay.com)
-    
+    [icons8](http://icons88.com)<br>
+    [flaticon](http://flaticon.com)<br>
+    [pixabay](http://pixabay.com)<br>
+
     """
 )
 
