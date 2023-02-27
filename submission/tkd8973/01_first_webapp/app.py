@@ -6,15 +6,8 @@ st.write(
     """
     # DAY1
     ## 알아두면 유용한 Colab-PYTHON 단축키
-    > alt + shift + ↑↓ : 같은 코드 복붙
-    > shift + home, end : 현재 위치에서 앞,뒤로 드래그
-    > 실행 : ctrl+enter, 셀추가 : alt+enter
-    > a,b = divmod(c,d) : c를 d로 나누었을때 몫과 나머지
-    > ctrl + m + m : 코드셀 -> 텍스트셀
-    > ctrl + m + y : 텍스트셀 -> 코드셀
-    > ctrl + m + a : 현재 셀 기준 위로 코드셀 생성
-    > ctrl + m+ b : 현재 셀 기준 아래에 코드셀 생성
-    > ctrl + m+ t : 현재 셀 기준 아래에 텍스트셀 생성
+    > alt + shift + ↑↓ : 같은 코드 복붙 <br> shift + home, end : 현재 위치에서 앞,뒤로 드래그 <br> 실행 : ctrl+enter, 셀추가 : alt+enter <br> a,b = divmod(c,d) : c를 d로 나누었을때 몫과 나머지 
+    <br> ctrl + m + m : 코드셀 -> 텍스트셀 <br> ctrl + m + y : 텍스트셀 -> 코드셀 <br> ctrl + m + a : 현재 셀 기준 위로 코드셀 생성 <br> ctrl + m+ b : 현재 셀 기준 아래에 코드셀 생성 <br> ctrl + m+ t : 현재 셀 기준 아래에 텍스트셀 생성
 
     ---
     ## 나에게 가장 도움이 될 것 같은 유튜브
