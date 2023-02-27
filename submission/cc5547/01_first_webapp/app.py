@@ -46,18 +46,8 @@ st.write(
     * [메타코드M](https://www.youtube.com/@mcodeM/)
     * [AISchool](https://www.youtube.com/@aischool_ai/)
 
-
-    """
-    * [표시될 텍스트](https://naver.com)
-    <br>
-    ![이미지에 대한 설명](https://ouch-cdn2.icons8.com/llLHKo43gAdT2ZjeLQl1u4V_Gt5c8h59In2dgFsJXg0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjY0/LzRiZTZiMzkyLTlk/NWUtNDA2Zi04ZTAx/LWRlODYzMjQ2YzBi/My5wbmc.png)
-    """
 )
 
-# https://pixabay.com/ko
-st.image(
-    "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_960_720.jpg"
-)
 
 st.image(
     "https://maxst.icons8.com/vue-static/landings/page-index/products/preview/link-preview/ouch/ouch1.png"
