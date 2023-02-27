@@ -6,7 +6,6 @@ st.write(
     """
     # 나에게 가장 도움이 될 것 같은 유튜브
     ## 빵형의 개발도상국
-    [링크](http://naver.com)
     ![이미지에 대한 설명](https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png)
     > 이유 : 새로운 머신러닝/딥러닝 지식들이 많다
     # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
