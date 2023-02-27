@@ -35,6 +35,18 @@ with col1 :
 
   st.image("https://user-images.githubusercontent.com/71927533/221650828-c1a86b95-99ac-4a85-a4cc-e398eaf2865f.jpg")
   st.info('추천 이유 : 신기하고 재밌는 인공지능을 쉽게, 짧게 설명해주는 유튜브 입니다!', icon="ℹ️")
+  
+  # Text Area
+  message = st.text_area("소개해 드린 추천 채널의 느낀점을 입력해 주세요", "이곳에 입력하세요.")
+  if st.button("Submit", key='message'):
+    result = message.title()
+    st.success(result)
+
+  st.write(
+    """
+    > 출처: 빵형의 개발 도상국 유튜브
+    """)
+
 
 with col2 :
   # column 2 에 담을 내용
@@ -47,3 +59,12 @@ with col2 :
   if st.button("Submit", key='message'):
     result = message.title()
     st.success(result)
+
+  st.write(
+    """
+    > 출처: 노마드 코더 유튜브
+    """)
+
+    st.markdown(<iframe width="560" height="315" src="https://www.youtube.com/embed/Cnbmrh99c1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+
+
