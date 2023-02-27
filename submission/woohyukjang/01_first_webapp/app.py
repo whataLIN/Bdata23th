@@ -4,7 +4,7 @@ import streamlit as st
 # 마크다운을 기반으로 한 꾸미기 기능 작동
 st.write(
     """
-    # 장우혁 복습 웹페이지 * Since 2023-02-27*
+    # 장우혁 복습 웹페이지 *Since 2023-02-27*
     ---
     
     [수업 자료 링크](https://the-fat-cat.notion.site/26-ef748e37e6fa4dfc821ce8972dd9c5fe)
