@@ -20,8 +20,34 @@ st.write(
 
     * 1$ = 1,300원
     * ^_^
+    #나에게 가장 도움이 될 것 같은 유튜브
+  ## 빵형의 개발도상국
+  > 이유 : 새로운 머신러닝/딥러닝 지식들이 많다
+  
+  # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
+  ## 노마드코더
+  > 이유 : 최신 IT 트렌드를 쉽고 재밌게 전달해준다
+  #참고사이트
+  [icons8](https://icons8.com)
+  [flaticon](https://flaticon.com)
+  [pixabay](https://pixabay.com)
+   
+    #### 나에게 가장 도움이 될 것 같은 유튜브
+    ### 퇴근후딴짓
+    **이유** : 제목이 마음에 듬.
+    
+    #### 다른 학생들에게 가장 도움이 될 것 같은 유튜브
+    ### 드림코딩
+    **이유** : 친절.
+    
+    ![이미지 설명] https://icons8.com/illustrations/illustration/demure-man-programs-on-laptop-while-sitting-in-an-armchair-1
+    ![남자] https://icons8.com/illustrations/illustration/demure-man-programs-on-laptop-while-sitting-in-an-armchair-1
+    
     """
 )
+
+# 숙제
+# 유튜브 추천 (for me, for classmate)
 
 # https://pixabay.com/ko
 st.image(
