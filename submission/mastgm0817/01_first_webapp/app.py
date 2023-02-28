@@ -47,7 +47,11 @@ option1 = st.selectbox(
 st.write('You selected:', option1)
 
 html = """
-    <button type="button">바로가기</button>
+    <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    </head>
+    <button type="button" class="btn btn-primary">바로가기</button>
 """
 
 st.markdown(html, unsafe_allow_html=True)
