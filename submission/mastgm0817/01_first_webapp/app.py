@@ -47,12 +47,7 @@ option1 = st.selectbox(
 st.write('You selected:', option1)
 
 html = """
-    <div style='
-        background-color:red;
-        color:white;
-    '>
-        안녕하세요
-    </div>
+    <button type="button">바로가기</button>
 """
 
 st.markdown(html, unsafe_allow_html=True)
