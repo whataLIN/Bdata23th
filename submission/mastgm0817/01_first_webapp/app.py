@@ -56,6 +56,11 @@ html = """
 
 st.markdown(html, unsafe_allow_html=True)
 
+st.write(
+  """
+  ---
+  """
+)
 option2 = st.selectbox(
     '데이터엔지니어링 유튜브 리스트',
     ('빵', '퇴근후딴짓', '메타코드M','혁펜하임','오늘코드'))
