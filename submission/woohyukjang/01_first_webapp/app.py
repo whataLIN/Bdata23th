@@ -14,7 +14,7 @@ st.write(
       |[마크다운 링크](https://the-fat-cat.notion.site/Markdown-42c07b9f12be439c9d6a9f1a240ade4b)|
       |[Github](https://github.com/woohyukjang)|
       |[구글](https://google.com)|
-    
+      |[챗 GPT](https://chat.openai.com/chat)|
 
 
 
