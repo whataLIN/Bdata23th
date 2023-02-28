@@ -5,33 +5,29 @@ import streamlit as st
 st.write(
     """
     ---
-    # 나에게 가장 도움이 될 것 같은 유튜브
+    ## 나에게 가장 도움이 될 것 같은 유튜브
 
     > 노마드코더
 
     [![이미지 설명](https://i.ytimg.com/vi/Cnbmrh99c1o/hqdefault.jpg)](https://www.youtube.com/@nomadcoders)
 
-    ```
-    이유: 영어로 IT지식을 배울수 있어서
+    이유: `영어`로 IT지식을 배울수 있어서
   
-    ```
 
-    ~~~영어공부해야겠다는 생각이 듦~~~
+    ~~영어공부해야겠다는 생각이 듦~~
 
     ---
 
-    # 다른 학생들에게 가장 도움이 될 것 같은 유튜브
+    ## 다른 학생들에게 가장 도움이 될 것 같은 유튜브
 
     > 드림코딩
 
     [![이미지 설명](https://i.ytimg.com/vi/TTLHd3IyErM/hqdefault.jpg)](https://www.youtube.com/@dream-coding)
 
-    ```
-    이유: 웹개발 프론트엔드의 기초부터 심화까지 배울 수 있음
+    이유: 웹개발 프론트엔드의 `기초`부터 `심화`까지 배울 수 있음
     
-    ```
 
-    ~~~웹 개발 공부 지옥에 발 담근..~~~
+    ~~웹 개발 공부 지옥에 발 담근..~~
 
     ---
 
