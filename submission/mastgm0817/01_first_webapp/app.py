@@ -7,7 +7,7 @@ st.write(
     ---
     ## 나에게 가장 도움이 될 것 같은 유튜브
 
-    > 노마드코더
+    > 노마드코더 :smiley:
 
     [![이미지 설명](https://i.ytimg.com/vi/Cnbmrh99c1o/hqdefault.jpg)](https://www.youtube.com/@nomadcoders)
 
@@ -20,7 +20,7 @@ st.write(
 
     ## 다른 학생들에게 가장 도움이 될 것 같은 유튜브
 
-    > 드림코딩
+    > 드림코딩 :wink:
 
     [![이미지 설명](https://i.ytimg.com/vi/TTLHd3IyErM/hqdefault.jpg)](https://www.youtube.com/@dream-coding)
 
