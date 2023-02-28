@@ -17,7 +17,7 @@ if my_choice==whichChannel[1]:
     ![유튜브 이미지](https://yt3.googleusercontent.com/ytc/AL5GRJWCKbcOn_YX6jhiTrNoYBV3pg0eWu41jb2zpkXHjA=s88-c-k-c0x00ffffff-no-rj)
     [link](https://www.youtube.com/@nomadcoders)
 
-    > 이유: IT경향을 파악할 수 있음
+    > 이유: 최신 IT 경향을 파악할 수 있음
 
     """
     )
