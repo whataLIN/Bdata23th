@@ -46,7 +46,7 @@ option1 = st.selectbox(
 
 st.write('You selected:', option1)
 
-html = """
+html1 = """
     <head>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
@@ -54,7 +54,7 @@ html = """
     <button type="button" class="btn btn-primary">바로가기</button>
 """
 
-st.markdown(html, unsafe_allow_html=True)
+st.markdown(html1, unsafe_allow_html=True)
 
 st.write(
   """
@@ -66,3 +66,13 @@ option2 = st.selectbox(
     ('빵', '퇴근후딴짓', '메타코드M','혁펜하임','오늘코드'))
 
 st.write('You selected:', option2)
+
+html2 = """
+    <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    </head>
+    <button type="button" class="btn btn-warning">바로가기</button>
+"""
+
+st.markdown(html2, unsafe_allow_html=True)
