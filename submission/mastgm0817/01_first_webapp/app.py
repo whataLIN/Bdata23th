@@ -39,3 +39,9 @@ st.write(
 
     """
 )
+
+option = st.selectbox(
+    '추천 유튜브 리스트',
+    ('Email', 'Home phone', 'Mobile phone'))
+
+st.write('You selected:', option)
