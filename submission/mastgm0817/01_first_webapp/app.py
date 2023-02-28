@@ -40,8 +40,14 @@ st.write(
     """
 )
 
-option = st.selectbox(
-    '추천 유튜브 리스트',
-    ('Email', 'Home phone', 'Mobile phone'))
+option1 = st.selectbox(
+    '코딩 유튜브 리스트',
+    ('생활코딩', '드림코딩', '노마드코더','조코딩','코딩애플'))
 
-st.write('You selected:', option)
+st.write('You selected:', option1)
+
+option2 = st.selectbox(
+    '데이터엔지니어링 유튜브 리스트',
+    ('빵', '퇴근후딴', '메타코드M','혁펜하임','오늘코드'))
+
+st.write('You selected:', option2)
