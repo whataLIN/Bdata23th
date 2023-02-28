@@ -13,10 +13,10 @@ st.write(
     ## 코딩애플
     > 이유: 짧은 영상 길이와 간단한 설명으로 예습과 복습이 용이할 것 같다. 
 
-    """
-)
+    # 참고 사이트
+    * [icons8](https://icons8.com/)
+    * [flaticon](https://www.flaticon.com/)
+    * [pixabay](https://pixabay.com/ko/)
 
-# https://pixabay.com/ko
-st.image(
-    "https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_960_720.jpg"
+    """
 )
