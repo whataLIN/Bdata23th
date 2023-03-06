@@ -2,8 +2,8 @@ import streamlit as st
 import random
 
 def my_fun():
-    #random.chioce
-    pass
+    result=random.choice(range(10))
+    #if 
 
 
 st.write("함수를 응용해서 페이지 만들어보기")
@@ -29,4 +29,6 @@ prize=st.slider(
 
 st.write(f"당첨 시의 상금 : {prize}")
 
-st.button("당첨 알아보기", on_click=my_fun)
+pushed = st.button("당첨 알아보기", on_click=my_fun)
+if pushed:
+    st.write("버튼이 눌렸습니다.")
