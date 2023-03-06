@@ -3,7 +3,7 @@ import random
 
 def my_fun():
     st.balloons()
-    result=random.choice(range(10))
+    result=random.choice(range(1,11))
     if result==number:
         st.success(f"당첨입니다! 상금 {prize}원을 받으세요!")
     else:
