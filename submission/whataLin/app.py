@@ -14,10 +14,11 @@ st.write("# 행운뽑기")
 number=st.selectbox("번호를 골라주세요",list(range(10)))
 st.write(f"내가 고른 번호 : {number}")
 
-prize=st.number_input(
-    "당첨 시의 상금을 입력해수주세요.",
-    min_value=1000,
-    max_value=10000
+prize=st.slider(
+    "당첨 시의 상금을 입력해주세요.",
+    1000,
+    10000,
+    step=100,
 )
 
 st.write(f"당첨 시의 상금 : {prize}")
