@@ -29,5 +29,4 @@ prize=st.slider(
 
 st.write(f"당첨 시의 상금 : {prize}")
 
-st.button("당첨 알아보기", onclick=my_fun)
-
+st.button("당첨 알아보기", on_click=my_fun)
