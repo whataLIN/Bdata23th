@@ -2,8 +2,12 @@ import streamlit as st
 import random
 
 def my_fun():
+    st.balloons()
     result=random.choice(range(10))
-    #if 
+    if result==number:
+        st.success(f"당첨입니다! 상금 {prize}원을 받으세요!")
+    else:
+        st.error(f"아쉽습니다. 낙첨입니다.")
 
 
 st.write("함수를 응용해서 페이지 만들어보기")
