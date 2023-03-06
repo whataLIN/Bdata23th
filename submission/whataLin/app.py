@@ -12,4 +12,5 @@ st.write("# 행운뽑기")
 #button - 당첨/낙첨
 
 number=st.selectbox("번호를 골라주세요",list(range(10)))
-st.wrige(f"내가 고른 번호 : {number}")
+st.write(f"내가 고른 번호 : {number}")
+
